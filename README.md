@@ -2,7 +2,7 @@
 
 ## Welcome to my first public repository. This is one of the tasks from Codecademy - Front-end Developer Path.
 
-Retro Computer Style Porfolio using only pure CSS! No single image was used.
+Retro Computer Style Porfolio using pure CSS only! No single image was used for this project!
 
 ### Technolgies:
 - **Html5:** I was trying to stay as semantic as I could (due to specific UI/overall design). Easy send e-mail form (no JS).
