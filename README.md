@@ -12,6 +12,8 @@ Retro Computer Style Porfolio using pure CSS only! No single image was used for 
 - **Git/Github:** first time using GIT and Github (public repo)
 
 ### To DO's:
+- add touch support for mobile
+- fix mobile view (I forgot about the URL bar)
 - better code organization
 - fix custom scroll white square bug
 - fix mobile landscape orientation bug
